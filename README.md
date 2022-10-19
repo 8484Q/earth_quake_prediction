@@ -1,4 +1,4 @@
 # earth_quake_prediction
 Project for Kaggle Research Prediction Competition LANL Earthquake Prediction
 
-This is a test 111
+This is a test 222
