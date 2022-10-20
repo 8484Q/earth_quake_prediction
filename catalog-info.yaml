@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: developer-experience-team
+  description: The developer experience team
+  annotations:
+    fmr.com/piplatform-docs-folder: products/team-docs
+    fmr.com/piplatform-docs-branch: master
+spec:
+  type: team
+  member:
+    - a123456
